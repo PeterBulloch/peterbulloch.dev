@@ -39,7 +39,7 @@ const translations = {
         "edu.dates": "2016년 9월 – 2019년 6월",
         "edu.university": "영국 런던, 그리니치 대학교",
         "edu.certsHeading": "자격증 및 인증",
-        "edu.cert1": "Scrum Alliance — 공인 스크럼 마스터 (2022년 7월 – 2026년 8월)",
+        "edu.cert1": "Scrum Alliance — 공인 스크럼 마스터 (2022년 7월 – 2028년 8월)",
         "edu.cert2": "HarvardX — LEAD1x: 리더십 실천의 기본 원칙 (2022년)",
         "edu.cert3": "HarvardX — 원격 환경에서의 리더십 (2022년)",
         "edu.cert4": "사회통합프로그램(KIIP) 5단계 — TOPIK 5급 상당 한국어 능력 (2024년)",
