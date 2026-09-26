@@ -248,7 +248,8 @@ p {
 .meta {
     font-size: .85rem;
     color: var(--ink-soft);
-    white-space: nowrap;
+    min-width: 0;
+    overflow-wrap: break-word;
 }
 
 .bullets {
