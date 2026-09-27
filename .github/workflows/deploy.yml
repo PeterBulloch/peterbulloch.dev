@@ -15,5 +15,5 @@ jobs:
           ssh -o StrictHostKeyChecking=no peterbulloch@192.168.0.22 '
             cd ~/peterbulloch.dev &&
             git pull origin main &&
-            rsync -av --delete --exclude=".git" ./ /var/lib/nginx/html/
+            rsync -av --delete public/ /var/lib/nginx/html/
           '
